@@ -1,0 +1,159 @@
+h2 {
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  text-shadow: 3px 3px 0 rgba(0,0,0,0.1);
+}
+
+div {
+  width: 175px;
+  height: 38px;
+  background: yellow;
+  border-radius: 4px;
+  text-align: center;
+  color: black;
+  padding-top: 10px;
+  margin: -39px 0px 0 0;
+}
+
+li {
+  margin: -6px 0 0 0;
+}
+
+.container {
+  width: 900px;
+  height: 590px;
+  background: linear-gradient(260deg, #2376ae 0%, #c16ecf 100%);
+  display: flex;
+  margin: 0 auto;
+  margin-top: 150px;
+}
+
+.cat {
+  width: 175px;
+  height: 393px;
+  background: green;
+  margin: 49px 0 0 85px;
+  padding: 20px;
+  background-color: rgba(255,255,255,0.2);
+}
+
+.catty {
+  font-weight: 500;
+  font-family: sans-serif;
+}
+
+.text {
+  text-align: center;
+  font-weight: bold;
+  font-family: sans-serif;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.items {
+  list-style-type: none;
+  text-align: center;
+  padding-left: 0px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.nomoney {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 3.2em;
+}
+
+.buttom {
+  width: 150px;
+  height: 30px;
+  background: yellow;
+  text-align: center;
+  font-weight: 300;
+  color: black;
+}
+
+.dog {
+  width: 215px;
+  height: 489px;
+  background: green;
+  margin: 10px -12px 0 38px;
+  background-color: rgba(255,255,255,0.2);
+}
+
+.dog-items {
+  list-style-type: none;
+  text-align: center;
+  padding-left: 0px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.price {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 3.2em;
+}
+
+.doggy {
+  width: 175px;
+  height: 38px;
+  background: yellow;
+  border-radius: 4px;
+  text-align: center;
+  color: black;
+  padding-top: 10px;
+  margin: -40px 0px 0 20px;
+  font-weight: 500;
+  font-family: sans-serif;
+}
+
+.fish {
+  width: 210px;
+  height: 375px;
+  background: green;
+  margin: 75px 0 0 50px;
+  background-color: rgba(255,255,255,0.2);
+}
+
+.three {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 3.2em;
+}
+
+.fishy {
+  width: 175px;
+  height: 38px;
+  background: yellow;
+  border-radius: 4px;
+  text-align: center;
+  color: black;
+  padding-top: 10px;
+  margin: -40px 0px 0 17px;
+  font-size: 1.3em;
+}
+
+.line {
+  color: grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*
+font: sans-serif
+background: linear-gradient(260deg, #2376ae 0%, #c16ecf 100%);
+border-bottom: 1px solid rgba(0,0,0,0.1);
+text-shadow:3px 3px 0 rgba(0,0,0,0.1);
+background-color: rgba(255,255,255,0.2);
+ */
